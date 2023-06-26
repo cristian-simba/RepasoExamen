@@ -123,6 +123,7 @@ public class Main {
         }while(opcion!=5);
 
     }
+
     public static void menuPrincipal(){
         System.out.println("------Menu Principal------");
         System.out.println("1. Estudiante Graduado");
